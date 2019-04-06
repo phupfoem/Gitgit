@@ -3,11 +3,8 @@ abcbcbcbcbbhhgit hh
 assdas
 asaf
 
-<<<<<<< HEAD
 
 hhhh
-=======
 hhhhhh
 
 asdasd
->>>>>>> 85f2e25c34918509133152ede1fcc1f5138a3659
